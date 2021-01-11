@@ -80,8 +80,8 @@ This project was made to train HTM and CSS;
 ### Requirement
 
 Before you begin, you will need to have the basic html5 structure created in your project 
-[TutorialHTML] (https://tutorialehtml.com/pt/), [TutorialCSS] (https://www.w3schools.com/css/default.asp).
-Also, it’s good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
+[TutorialHTML](https://tutorialehtml.com/pt/), [TutorialCSS](https://www.w3schools.com/css/default.asp).
+Also, it’s good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
 
 #### Running (Frontend)
