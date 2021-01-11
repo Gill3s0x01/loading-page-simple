@@ -128,7 +128,7 @@ Incredible professionals :)
 
   <div>
   <p>
-   Sigam no Instagram
+   Follow on Instagram, on Youtube (don't forget to activate the bell to follow all the content)
   </p>
 
    [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/girl.coding)](https://www.instagram.com/girl.coding/) [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/watch?app=desktop&v=MkXuQ9CcHqU&feature=youtu.be)](https://www.youtube.com/watch?app=desktop&v=MkXuQ9CcHqU&feature=youtu.be)
@@ -139,11 +139,11 @@ Incredible professionals :)
 
 ## How to contribute
 
-1. Faça um fork do projeto.
-2. Crie um novo branch com suas alterações: `git checkout -b my-feature`
-3. Salve suas alterações e crie uma mensagem de confirmação dizendo o que você fez: `git commit -m" feature: My new feature "`
-4. Envie suas alterações: `git push origin my-feature`
-   > Se você tiver alguma dúvida, consulte este [guia sobre como contribuir] (./CONTRIBUTING.md))
+1. Fork the project.
+2. Create a new branch with your changes: `git checkout -b my-feature`
+3. Save your changes and create a confirmation message saying what you did: `git commit -m" feature: My new feature "`
+4. Submit your changes: `git push origin my-feature`
+   >If you have any questions, see this [guide on how to contribute](./CONTRIBUTING.md)
 
 ---
 
@@ -160,10 +160,10 @@ Incredible professionals :)
 
 ---
 
-## Licença
+## License
 
 This project is under license [MIT] (./ LICENSE).
 
-Feito com amor por Lorison Gilles 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/lorison-gilles/)
+Made with love by Lorison Gilles (Feito com amor por Lorison Gilles) 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/lorison-gilles/)
 
 ---
