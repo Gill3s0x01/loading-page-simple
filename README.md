@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="login-form" title="#mario-art" src="./src/assets/login-form.png" />
+    <img alt="login-form" title="#mario-art" src="./assets/login-form.png" />
 </h1>
 
 
